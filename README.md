@@ -1,5 +1,5 @@
 # top100list-website
-This was a CENG3507- Web Development and Programming lesson project. We used "Web2py" in this project. 
+This was a CENG3507- Web Development and Programming course project. We used "Web2py" in this project. 
 
 
 We added project members in "About" tab. Aslıhan Arslan and I completed our project successfully and got AA points :) 
