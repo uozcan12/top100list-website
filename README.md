@@ -2,6 +2,8 @@
 This was a CENG3507- Web Development and Programming course project. We used "Web2py" in this project. 
 
 
+![top100list-home](https://cloud.githubusercontent.com/assets/10771038/22219399/52cddc58-e1b3-11e6-8928-443a5bf4d3d0.png)
+
 We added project members in "About" tab. Aslıhan Arslan and I completed our project successfully and got AA points :) 
 
 ![top100list-about](https://cloud.githubusercontent.com/assets/10771038/22217718/d1759c14-e1ac-11e6-835e-7bf8cf37e10d.png)
